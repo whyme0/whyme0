@@ -10,6 +10,6 @@ Hi, I'm George. I'm a software developer passionate about both backend and front
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whyme0&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=whyme0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=whyme0&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
